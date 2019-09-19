@@ -40,3 +40,9 @@ The line you need to edit is where "merge" variable is.
 To my surprise, video 1000kb/s seems to hold itself up pretty well. Going down seems to start giving artifacts. As for audio, it's using Opus, and even if you set that to "1", you'll feel like living in 90's, but it's understandable. Usually, 16kb/s is even good. As much as I know, mp3 would have failed hard at that point.
 
 Either way, you're just gonna have to try yourself. Do keep in mind, that the point isn't super-ultra-clear quality. Anything that ever steers from original material, can never be as good as the original.
+
+<br>
+<br>
+
+# Copyright?
+Fuck that. Snag it, if ya find any value in this. As of 19-09-2019, it will probably not get any updates. So go ahead.
