@@ -36,4 +36,7 @@ Batch processing works on folder, rather than file. Anything you wanna convert, 
 
 The line you need to edit is where "merge" variable is.
 
+# What about the quality??
+To my surprise, video 1000kb/s seems to hold itself up pretty well. Going down seems to start giving artifacts. As for audio, it's using Opus, and even if you set that to "1", you'll feel like living in 90's, but it's understandable. Usually, 16kb/s is even good. As much as I know, mp3 would have failed hard at that point.
 
+Either way, you're just gonna have to try yourself. Do keep in mind, that the point isn't super-ultra-clear quality. Anything that ever steers from original material, can never be as good as the original.
