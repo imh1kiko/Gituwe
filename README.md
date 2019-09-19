@@ -14,7 +14,9 @@ As we know, Discord's file sharing limit is **8MB**. That means, you either use 
 Seeing gifs going over 30MB on some websites is also frustrating. With this, you can squash it down to 80% of it's size (depending on the settings of course, but generally, defaults are good). If it says anything, I used batch processed a lot of debatable hentai gifs. Here's some comparisons.
 (Don't judge. I know you ain't any better.)
 
-[PlaceHolder for images]
+![](/preview/Gituwe_1.png)
+![](/preview/Gituwe_2.png)
+![](/preview/Gituwe_3.png)
 <br>
 <br>
 <br>
