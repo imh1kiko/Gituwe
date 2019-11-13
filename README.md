@@ -1,3 +1,7 @@
+# + D E P R E C A T E D ! +
+As of Handbrake 1.3.0 update, WebM support was added. This renders this whole script useless. Just use [this](https://handbrake.fr/downloads.php "HandBrake Downloads page").
+___
+
 # Gituwe
 Automation of HandbrakeCLI and FFmpeg to render most video formats and gifs into webm.
 <br>
